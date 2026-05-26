@@ -47,7 +47,7 @@ const Contact = () => {
               </div>
               <div className="info-item">
                 <Phone className="info-icon" />
-                <span>+91 8098576045</span>
+                <span>+91 9444184616</span>
               </div>
               <div className="info-item">
                 <MapPin className="info-icon" />
